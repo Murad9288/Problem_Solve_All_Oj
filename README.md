@@ -1,3 +1,3 @@
 # Problem_Solve_All_Oj:
-# DimikOj Problem Solve.
-# URI OJ Problem Solve.
+# Dimik_Oj_Problem_Solve.
+# URI_OJ_Problem_Solve.
