@@ -1,4 +1,4 @@
-# Problem_Solve_All_Oj:
+# ALL ONLINE JUDGE WITH PYTHON:
 #
 
 # Dimik_Oj_Problem_Solve.
