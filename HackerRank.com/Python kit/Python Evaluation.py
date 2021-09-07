@@ -1,0 +1,2 @@
+a = eval(input(""))
+print()
