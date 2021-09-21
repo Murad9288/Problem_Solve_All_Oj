@@ -1,1 +1,0 @@
-print("Yaayy!! Bangladesh Won!!")
