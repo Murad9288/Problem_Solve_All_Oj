@@ -12,7 +12,10 @@ Yes
 '''
 No
 '''
+# First System:
+# Accepted:
 
+'''
 A, B = input().split()
 a = list(A)
 b = list(B)
@@ -31,7 +34,28 @@ if count != 0:
     print("Yes")
 else:
     print("No")
-# Details:
+  '''
+# Second System:
+# Accepted:
+
+a,b= map(int,input().split())
+li = []
+for i in str(a):
+    a = int(i)
+    if a < 5:
+        li.append(a)
+li_2 = []
+for j in str(b):
+    b = int(j)
+    if b<=5:
+        li_2.append(b)
+if len(li) == len(str(a)) and len(li_2) == len(str(b)):
+    print("No")
+else:
+    print("Yes")
+
+
+# Problem Details:
 '''
 ব্যাঙের যোগ:
 ব্যাঙ কিভাবে সংখ্যাগুলো যোগ করতে হয় তা শিখতেছে। যাইহোক, যখন ক্যারি থাকে তখন সে বিভ্রান্ত হয়ে যায়।
