@@ -1,7 +1,5 @@
-A = float(input())
-B = float(input())
-C = float(input())
-MEDIA = (A+B+C)/3
-print('MEDIA = %0.1f'%MEDIA) 
-
-
+first_floating_number = float(input())
+second_floating_number = float(input())
+third_floating_number = float(input())
+avarege = ((first_floating_number*2) + (second_floating_number*3)+(third_floating_number*5)) / (2+3+5)
+print("MEDIA = %0.1f"%avarege)
