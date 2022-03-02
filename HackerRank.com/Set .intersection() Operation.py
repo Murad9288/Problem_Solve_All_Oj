@@ -1,0 +1,5 @@
+n = int(input())
+arr = set(map(int,input().split()))
+m = int(input())
+arr2 = set(map(int,input().split()))
+print(len(arr&arr2))
