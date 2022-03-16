@@ -24,8 +24,7 @@ for _ in 1...t{
 
 
 # Python Solution Code:
-
-'''
+/*
 for _ in range(int(input())):
     n,c,m = map(int,input().split())
     n = n//c
@@ -35,7 +34,7 @@ for _ in range(int(input())):
         n += k
         w = k+(w%m)
     print(n)
-'''
+*/
 
 
 
