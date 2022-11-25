@@ -28,6 +28,8 @@ for i in range(1,11):
   
   '''
  
+# swift code:
+print('hello swift')
 
 
 // Array:
