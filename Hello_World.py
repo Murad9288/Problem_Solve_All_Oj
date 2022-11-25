@@ -121,13 +121,7 @@ print(cat(c: t))
 //else{
 //    print("No")
 //}
-
-// MARK: Switch Case:
-//
-//let character: Character = "c"
-//switch character{
-//case "a":
-//    print("1st Character")
+nt("1st Character")
 //case "z":
 //    print("last Character")
 //default:
