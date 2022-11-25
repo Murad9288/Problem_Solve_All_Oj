@@ -303,18 +303,6 @@ nt("1st Character")
 //print(tuples.second)
 //
 
-// MARK: Enumerations
-
-//let result = "failure"
-//let result2 = "failed"
-//let result3 = "fail"
-//enum Result {
-//    case success
-//    case failure
-//}
-//let res = Result.failure
-//print(res)
-
 
 
 
