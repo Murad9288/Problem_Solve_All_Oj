@@ -27,64 +27,7 @@ for i in range(1,11):
   
   
   '''
-  
-  //
-//  Main.swift
-//  Swift_All_Problem
-//
-//  Created by Md Murad Hossain on 5/7/22.
-//
-
-
-import Foundation
-
-
-/*
  
-import Foundation
-let t = Int(readLine()!)!
-for _ in 1...t{
- // array input:
-    let arr = readLine()!.split(separator: " ").map { Int($0)!}
-    let a = arr[0]
-    let r = arr[1]
-    let n = arr[2]
-    var res = a
-    var total = a
-    for _ in 2...n{
-        total *= r
-        res += total
-    }
-    print(res)
-}
-*/
-
-
-
-// Switch case a range use korar subidha ache.
-/*
-var murad = 100
-switch murad{
-case 80...100:
-    print("A+")
-case 70...79:
-    print("A")
-default:
-    print("Fail")
-}
- */
-// range baad diye..
-/*
-var murad = 34
-switch murad{
-case 1:
-    print("Number is one")
-case 2:
-    print("Number is two")
-default:
-    print("Number is Invalid")
-}
-*/
 
 
 // Array:
