@@ -5,15 +5,6 @@ for i in range(100,1,-1):
 
 
 
-# Problem name : add list sum one after one.
-'''
-arr = list(map(str,input().split())) # 4 5 6 6 3 5
-s = 0
-for i in range(0,len(arr)+1,2): # len(arr) = 6
-    s += arr[i]
-print(s)
-
-'''
 # 2nd step:
 
 # array er vitore 3rd maximum number ber kora.
