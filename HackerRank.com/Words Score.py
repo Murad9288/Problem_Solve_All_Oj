@@ -1,3 +1,5 @@
+# functional code
+
 def score_words(words):
     score = 0
     for word in words:
